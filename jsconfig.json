@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "module": "ESNext"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
